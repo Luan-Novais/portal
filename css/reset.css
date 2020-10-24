@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+input{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+h2,p{
+  margin: 0;
+  padding: 0;
+}
