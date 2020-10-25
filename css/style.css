@@ -336,6 +336,9 @@
     color: black;
 }
 
+
+
+
 /* Breakpoints */
 
 @media only screen and (min-width:906px)  and (max-width: 1057px){
@@ -346,8 +349,13 @@
         max-width: 890px;
     }
 
+
     .leftside{
         width: 600px;
+    }
+
+    #menu{
+        display: block !important;
     }
 
     .noticiaarea1{
@@ -384,6 +392,10 @@
     .containerint{
     max-width: 758px
 
+    }
+
+    #menu{
+        display: block !important;
     }
 
     .logo{
